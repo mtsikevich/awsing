@@ -1,0 +1,6 @@
+@AWSing_HostAddress = http://localhost:5105
+
+GET {{AWSing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
